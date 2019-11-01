@@ -1,0 +1,146 @@
+{ "periods": [
+    {
+        "name" : "1st week",
+        "expenses" : [
+            {
+                "name" : "Costs of goods sold",
+                "ammount" : 300
+            },
+            {
+                "name" : "Salaries expenses",
+                "ammount" : 1200
+            },
+            {
+                "name" : "Advertising expenses",
+                "ammount" : 600
+            },
+            {
+                "name" : "Delivery expenses",
+                "ammount" : 280
+            }
+        ],
+        "incomes" : [
+            {
+                "name" : "Sale revenue generated from the sale of a commodity",
+                "ammount" : 1800
+            },
+            {
+                "name" : "Interest received on a bank deposit",
+                "ammount" : 700
+            },
+            {
+                "name" : "Interest received on a bank deposit",
+                "ammount" : 500
+            },
+            {
+                "name" : "Dividend earnd on entity's investments",
+                "ammount" : 400
+            },
+            {
+                "name" : "Rentals recerived on property based by the entity",
+                "ammount" : 1400
+            }
+        ]
+    },
+    {
+        "name" : "2nd week",
+        "expenses" : [
+            {
+                "name" : "Costs of goods sold",
+                "ammount" : 390
+            },
+            {
+                "name" : "Salaries expenses",
+                "ammount" : 1300
+            },
+            {
+                "name" : "Advertising expenses",
+                "ammount" : 400
+            },
+            {
+                "name" : "Delivery expenses",
+                "ammount" : 300
+            }
+        ],
+        "incomes" : [
+            {
+                "name" : "Sale revenue generated from the sale of a commodity",
+                "ammount" : 2400
+            },
+            {
+                "name" : "Interest received on a bank deposit",
+                "ammount" : 770
+            },
+            {
+                "name" : "Interest received on a bank deposit",
+                "ammount" : 550
+            },
+            {
+                "name" : "Dividend earnd on entity's investments",
+                "ammount" : 400
+            },
+            {
+                "name" : "Rentals recerived on property based by the entity",
+                "ammount" : 1400
+            }
+        ]
+    },
+    {
+        "name" : "3rd week",
+        "expenses" : [
+            {
+                "name" : "Costs of goods sold",
+                "ammount" : 400
+            },
+            {
+                "name" : "Salaries expenses",
+                "ammount" : 1300
+            },
+            {
+                "name" : "Advertising expenses",
+                "ammount" : 600
+            },
+            {
+                "name" : "Delivery expenses",
+                "ammount" : 300
+            }
+        ],
+        "incomes" : [
+            {
+                "name" : "Sale revenue generated from the sale of a commodity",
+                "ammount" : 2800
+            },
+            {
+                "name" : "Interest received on a bank deposit",
+                "ammount" : 700
+            },
+            {
+                "name" : "Interest received on a bank deposit",
+                "ammount" : 500
+            },
+            {
+                "name" : "Dividend earnd on entity's investments",
+                "ammount" : 400
+            },
+            {
+                "name" : "Rentals recerived on property based by the entity",
+                "ammount" : 1400
+            }
+        ]
+    },
+    {
+        "name" : "4th week",
+        "expenses" : [
+            {
+                "name" : "still nothing",
+                "ammount" : 0
+            }
+        ],
+        "incomes" : [
+            {
+                "name" : "still nothing",
+                "ammount" : 0
+            }
+        ]
+    }
+]}

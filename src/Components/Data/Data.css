@@ -1,0 +1,30 @@
+.main {
+    display: flex;
+    background-color: rgb(66, 63, 63);
+}
+.chart {
+    position: relative;
+    margin-top: 120px;
+    width: 800px;
+    height: 600px;
+    justify-content: center;
+    align-items: center;
+}
+.text {
+    color: rgb(233, 219, 201);
+    text-align: center;
+    font-weight: bold;
+    font-family: monospace;
+}
+.header {
+    font-size: 25px;
+}
+.par{
+    font-size: 17px;
+}
+.button {
+    text-align: center;
+}
+.btn:hover{
+    background-color:yellow;
+}
